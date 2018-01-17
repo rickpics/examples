@@ -2,4 +2,4 @@
 ## Things I've Found Useful:
 
 ### PHP
-[Countdown timer till when Trump is out of office](countdown-to-trump-exit.php)
+&#x1F34A; &#x2716; &#x1F921; [Countdown timer till when Trump is out of office](countdown-to-trump-exit.php)
